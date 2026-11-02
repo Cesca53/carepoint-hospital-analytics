@@ -61,5 +61,3 @@ In Power BI, booking lead time was grouped into same day, 1–7 days, 8–14 day
 ## Project File
 [Download the Power BI Dashboard](CarePoint_Hospital_Analysis.pbix)
 
-## Project Objective
-This project demonstrates the use of SQL and Power BI to investigate operational performance, identify patterns, and communicate data-driven recommendations in a healthcare setting.
